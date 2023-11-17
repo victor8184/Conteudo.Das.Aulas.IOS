@@ -1,0 +1,11 @@
+*{
+    color: aliceblue;
+    background-color: rgb(131, 48, 199) ;
+}
+
+
+article p{
+    background-color: rgb(74, 14, 122) ;
+    border-radius: 4px;
+    padding: 5px;
+}

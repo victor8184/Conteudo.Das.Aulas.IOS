@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+
+#para1{ 
+    background-color: rgb(255, 115, 0);
+    padding: 20px;
+    padding-top: 4px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+#para2{
+    border-top: dotted pink;
+    background-color: black;
+    padding: 5px;
+    padding-left: 10px;
+}
+
