@@ -6,7 +6,7 @@ const Header = ({ title }) => {
         alert('Clicou');
     };
     return (
-        <header>
+        <header className="header">
             <h1>Agenda de {title}</h1>
             <Button bgColor="green" text="Add" onClick={onClick} />
         </header>
